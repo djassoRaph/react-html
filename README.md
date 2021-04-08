@@ -1,5 +1,4 @@
-# react-htm
-
+# react-html
 
 Hi, this is just going to be a react page for my personal web server. 
 I have nothing to hide so here's everything, including my mental notes and research on this stuff.
